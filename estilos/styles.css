@@ -178,3 +178,15 @@ section p {
 #seccion3 img {
     display: inline-block; 
 }
+
+.enrutamiento img,
+.html-css img,
+.powershell img,
+.bases-datos img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    border: 2px solid #ac8a8a;
+}
