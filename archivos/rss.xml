@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Página Web Andreu Smith Barajas</title>
+        <link>https://tu-dominio-ejemplo.com/index.html</link>
+        <description>Información personal, académica y profesional de Andreu Smith Barajas.</description>
+        <language>es</language>
+        <copyright>© 2025 - Andreu Smith Barajas</copyright>
+
+        <item>
+            <title>Sobre Mí</title>
+            <link>https://tu-dominio-ejemplo.com/index.html#seccion1</link>
+            <description>Información personal sobre gustos, música, deportes y orígenes familiares.</description>
+            <pubDate>Tue, 13 May 2025 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Mis Estudios</title>
+            <link>https://tu-dominio-ejemplo.com/index.html#seccion2</link>
+            <description>Recorrido académico desde primaria hasta la FP de ASIR.</description>
+            <pubDate>Tue, 13 May 2025 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>Mis Trabajos</title>
+            <link>https://tu-dominio-ejemplo.com/index.html#seccion3</link>
+            <description>Proyectos realizados en asignaturas como Redes, Sistemas y Lenguaje de Marcas.</description>
+            <pubDate>Tue, 13 May 2025 10:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

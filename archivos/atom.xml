@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Página Web Andreu Smith Barajas</title>
+    <link href="https://tu-dominio-ejemplo.com/index.html"/>
+    <updated>2025-05-13T10:00:00Z</updated>
+    <author>
+        <name>Andreu Smith Barajas</name>
+    </author>
+    <id>https://tu-dominio-ejemplo.com/index.html</id>
+
+    <entry>
+        <title>Sobre Mí</title>
+        <link href="https://tu-dominio-ejemplo.com/index.html#seccion1"/>
+        <id>https://tu-dominio-ejemplo.com/index.html#seccion1</id>
+        <updated>2025-05-13T10:00:00Z</updated>
+        <summary>Información personal sobre gustos, música, deportes y orígenes familiares.</summary>
+    </entry>
+
+    <entry>
+        <title>Mis Estudios</title>
+        <link href="https://tu-dominio-ejemplo.com/index.html#seccion2"/>
+        <id>https://tu-dominio-ejemplo.com/index.html#seccion2</id>
+        <updated>2025-05-13T10:00:00Z</updated>
+        <summary>Recorrido académico desde primaria hasta la FP de ASIR.</summary>
+    </entry>
+
+    <entry>
+        <title>Mis Trabajos</title>
+        <link href="https://tu-dominio-ejemplo.com/index.html#seccion3"/>
+        <id>https://tu-dominio-ejemplo.com/index.html#seccion3</id>
+        <updated>2025-05-13T10:00:00Z</updated>
+        <summary>Proyectos realizados en asignaturas como Redes, Sistemas y Lenguaje de Marcas.</summary>
+    </entry>
+</feed>
