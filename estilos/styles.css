@@ -190,3 +190,30 @@ section p {
     border-radius: 10px;
     border: 2px solid #ac8a8a;
 }
+.feed-button {
+    padding: 6px 12px;
+    margin-left: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.atom-button {
+    background-color: #f57c00;
+}
+
+.atom-button:hover {
+    background-color: #e65100;
+}
+
+.rss-button {
+    background-color: #1976d2;
+}
+
+.rss-button:hover {
+    background-color: #0d47a1;
+}
